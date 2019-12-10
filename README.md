@@ -7,7 +7,7 @@
 
 Step 1 - Upload Files in Root Folder (eg. public_html)
 
-Step 2 - Dont Make Any change in script ... if you do than may it crash and stop working ..
+Step 2 - Edit and Put Your YouTube V3 Api Key in index.php on Line 266 ..
 
 Step 3 - Thats it !
 
