@@ -3,7 +3,7 @@
 
 $str = $_SERVER['REQUEST_URI'];
 
-$yt = file_get_contents('http://vijaykumarreigns.orgfree.com/ddl/?v='.substr($str,16).'');
+$yt = file_get_contents('http://aioep.000webhostapp.com/@download/?v='.substr($str,-11).'');
 
 echo $yt;
 ?>
